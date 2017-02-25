@@ -2,7 +2,7 @@
 
 # Part 1: Create a 3d model
 
-## Due date: Thurs. 2/30
+## Due date: Thurs. 3/2
 
 As usual, 1 point extra credit will be awarded for completed assignment or pull request fixing error before Sat. 2/25.
 
@@ -18,7 +18,7 @@ Your pull request should contain the modified code and a clip of the rendered an
 
 # Part 2: Create a viewer.
 
-## Due date: Thurs. 3/2
+## Due date: Thurs. 3/9
 
 ## Task
 
